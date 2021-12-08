@@ -1,0 +1,9 @@
+.idea
+*/*.iml
+*/.mvn
+*/.gitignore
+*/mvnw
+*/mvnw.cmd
+*/src/test
+*/target
+*/Help.md
